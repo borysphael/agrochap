@@ -1,0 +1,3 @@
+comand install
+
+python3 -m pip <command> [options]
